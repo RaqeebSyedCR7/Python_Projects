@@ -1,0 +1,22 @@
+adj = input("Adjective: ")
+verb1 = input("Verb: ")
+verb2 = input("Verb: ")
+famous = input("Name: ")
+
+madlib = f"""computer programming is so *{adj}! It makes me so exited all the time. 
+I love to *{verb1}. But others love to *{verb2}. Because of *{famous}"""
+
+print(madlib)
+
+
+# Syntaz of madlib game
+# word1 = input("word: ")
+# word2 = input("word: ")
+# word3 = input("word: ")
+# word4 = input("word: ")
+# word5 = input("word: ")
+# word6 = input("word: ")
+# 
+# output = f"""example stateemnts{word1} ,......... {word2} .......{word3}.....{word4}.....{word5}....{word6} """
+# 
+# print(output)
